@@ -1,0 +1,7 @@
+ 1044  git init
+ 1045  touch README.md
+ 1046  git add README.md
+ 1047  git commit -m "First commit"
+ 1048  git remote add origin git@github.com:bacharakis/powerRangers.git
+ 1049  git push -u origin master
+
